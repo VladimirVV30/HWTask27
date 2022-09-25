@@ -1,0 +1,15 @@
+C:\GeekBrains\Seminar4\HWTask27\bin\Debug\net6.0\HWTask27.exe
+C:\GeekBrains\Seminar4\HWTask27\bin\Debug\net6.0\HWTask27.deps.json
+C:\GeekBrains\Seminar4\HWTask27\bin\Debug\net6.0\HWTask27.runtimeconfig.json
+C:\GeekBrains\Seminar4\HWTask27\bin\Debug\net6.0\HWTask27.dll
+C:\GeekBrains\Seminar4\HWTask27\bin\Debug\net6.0\HWTask27.pdb
+C:\GeekBrains\Seminar4\HWTask27\obj\Debug\net6.0\HWTask27.csproj.AssemblyReference.cache
+C:\GeekBrains\Seminar4\HWTask27\obj\Debug\net6.0\HWTask27.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Seminar4\HWTask27\obj\Debug\net6.0\HWTask27.AssemblyInfoInputs.cache
+C:\GeekBrains\Seminar4\HWTask27\obj\Debug\net6.0\HWTask27.AssemblyInfo.cs
+C:\GeekBrains\Seminar4\HWTask27\obj\Debug\net6.0\HWTask27.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Seminar4\HWTask27\obj\Debug\net6.0\HWTask27.dll
+C:\GeekBrains\Seminar4\HWTask27\obj\Debug\net6.0\refint\HWTask27.dll
+C:\GeekBrains\Seminar4\HWTask27\obj\Debug\net6.0\HWTask27.pdb
+C:\GeekBrains\Seminar4\HWTask27\obj\Debug\net6.0\HWTask27.genruntimeconfig.cache
+C:\GeekBrains\Seminar4\HWTask27\obj\Debug\net6.0\ref\HWTask27.dll
